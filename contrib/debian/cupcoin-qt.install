@@ -1,0 +1,6 @@
+usr/local/bin/cupcoin-qt usr/bin
+share/pixmaps/cupcoin32.xpm usr/share/pixmaps
+share/pixmaps/cupcoin16.xpm usr/share/pixmaps
+share/pixmaps/cupcoin128.png usr/share/pixmaps
+debian/cupcoin-qt.desktop usr/share/applications
+debian/cupcoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/cupcoin_bg.qm</file>
+        <file alias="de">locale/cupcoin_de.qm</file>
+        <file alias="en">locale/cupcoin_en.qm</file>
+        <file alias="es">locale/cupcoin_es.qm</file>
+        <file alias="fi">locale/cupcoin_fi.qm</file>
+        <file alias="fr">locale/cupcoin_fr.qm</file>
+        <file alias="it">locale/cupcoin_it.qm</file>
+        <file alias="ja">locale/cupcoin_ja.qm</file>
+        <file alias="pl">locale/cupcoin_pl.qm</file>
+        <file alias="pt">locale/cupcoin_pt.qm</file>
+        <file alias="ru">locale/cupcoin_ru.qm</file>
+        <file alias="sk">locale/cupcoin_sk.qm</file>
+        <file alias="sv">locale/cupcoin_sv.qm</file>
+        <file alias="vi">locale/cupcoin_vi.qm</file>
+        <file alias="zh_CN">locale/cupcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/cupcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
